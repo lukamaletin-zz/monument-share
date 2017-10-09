@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MonumentShare</string>
+    <string name="tab1_name">All Monuments</string>
+    <string name="tab2_name">My Monuments</string>
+    <string name="tab3_name">Types</string>
+
+    <string name="new_type">New monument type</string>
+    <string name="type_name">Type name</string>
+    <string name="type_name_unavailable">Type already exists!</string>
+    <string name="monument_title">Title</string>
+    <string name="monument_description">Description</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_required">Title required!</string>
+    <string name="type_required">You must first add a type!</string>
+    <string name="upload_message">" uploaded a new %s "</string>
+
+    <string name="log_in">Log In</string>
+    <string name="log_out">Log Out</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="confirm_exit">Press again to exit</string>
+
+    <string name="wrong_credentials">Wrong email or password!</string>
+    <string name="username_required">Username required!</string>
+    <string name="email_required">Email required!</string>
+    <string name="email_unavailable">Email already taken!</string>
+    <string name="password_required">Password required!</string>
+    <string name="password_unmatched">Passwords do not match!</string>
+    <string name="registration_success">Registration successful!</string>
+</resources>
